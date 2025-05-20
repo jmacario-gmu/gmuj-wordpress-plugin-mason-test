@@ -21,7 +21,7 @@ function gmuj_mtp_display_settings_page() {
 
 	// Output basic plugin info
 	echo "<p>This is used for testing purposes.</p>";
-	echo "<p>This is version 1.2</p>";
+	echo "<p>This is version 1.3</p>";
 
 	// Finish HTML output
 	echo "</div>";

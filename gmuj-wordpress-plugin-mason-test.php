@@ -9,7 +9,7 @@
  * Author:            Jan Macario
  * Plugin URI:        https://github.com/jmacario-gmu/gmuj-wordpress-plugin-mason-test
  * Description:       Mason WordPress plugin used for testing purposes.
- * Version:           1.2
+ * Version:           1.3
  */
 
 
